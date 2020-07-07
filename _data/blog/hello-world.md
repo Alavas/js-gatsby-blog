@@ -1,10 +1,13 @@
 ---
 template: BlogPost
-path: /hello-world
-date: 2020-02-20T07:08:53.137Z
-title: Hello World
+path: /welcome
+date: 2020-07-06T14:30:00.000Z
+title: Welcome
+metaDescription: Welcome
 thumbnail: ''
-metaDescription: Meta description for Hello World
 ---
+Hi there!
 
-Lorem ipsum dolor, sit amet consectetur adipisicing elit. Similique fugiat delectus pariatur blanditiis nulla soluta ratione nostrum, harum maiores adipisci a quod nobis cupiditate quae odit unde qui sit consequuntur.
+I'm not sure exactly what I'll be posting here, we'll let that work itself out along the way. 
+
+I'm a born tinkerer, always looking to learn something new. For several years now I've been teaching myself how to code using the magic of the internet. At this point I'm more than dangerous with JavaScript and C# but I've been trying to focus on learning Python so I can be one of the cool kids. I've also spent some time recently getting back into my original passion, electronics. I've been working on a project to code my own computer in Verilog to be run on an FPGA, I'll do my best to post more about that :-)
