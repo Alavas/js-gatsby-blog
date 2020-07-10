@@ -4,7 +4,7 @@ path: /welcome
 date: 2020-07-06T14:30:00.000Z
 title: Welcome
 metaDescription: Welcome
-thumbnail: /assets/image-5.jpg
+thumbnail: /assets/Moon.jpg
 ---
 Hi there!
 
