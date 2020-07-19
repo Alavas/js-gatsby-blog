@@ -30,18 +30,18 @@ body.light {
 	--input-bg: var(--background);
 }
 body.dark {
-	--primary-color: #9d0101;
-	--primary-text-color: #fff;
+	--primary-color: #07123a;
+	--primary-text-color: #515e90;
 	--featured-bg: #49494a;
 	--featured-text: #fff;
-	--secondary-color: #fd0101;
-	--background: #151515;
+	--secondary-color: #7a85ad;
+	--background: #303e73;
 	--text-color: rgba(255, 255, 255, 0.88);
 	--text-secondary-color: rgba(255, 255, 255, 0.66);
 	--site-header: var(--background);
-	--card-bg: #1d1d1d;
-	--card-bdr: #1d1d1d;
-	--card-shadow: #020204;
+	--card-bg: #7a85ad;
+	--card-bdr: #172557;
+	--card-shadow: #07123a;
 	--btn-bg: var(--background);
 	--btn-bdr: #d3d6e7;
 	--btn-text-color: #868892;
@@ -115,6 +115,11 @@ a {
 	font-size: 36px;
 	font-weight: 900;
 	margin-bottom: 0.5rem;
+}
+.contact-list {
+	li {
+		margin-bottom: 0.5rem;
+	}
 }
 .button {
 	padding: 18px 27px;

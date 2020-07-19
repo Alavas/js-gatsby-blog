@@ -23,11 +23,8 @@ export default () => (
 						__html: data.site.siteMetadata.home.description,
 					}}
 				/>
-				<Link to="/projects" className="button -primary">
+				<Link to="/contact" className="button -primary">
 					&larr; Contact
-				</Link>
-				<Link to="/projects" className="button -primary">
-					Projects &rarr;
 				</Link>
 			</div>
 		)}
