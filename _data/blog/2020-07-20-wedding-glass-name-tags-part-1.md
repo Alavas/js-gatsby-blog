@@ -2,7 +2,7 @@
 template: BlogPost
 path: /wedding-name-tags-part1
 date: 2020-07-20T03:11:41.915Z
-title: Wedding Glass Name Tags Part 1
+title: Wedding Favor Glass Name Tags - Part 1
 thumbnail: /assets/Fusion360Model.jpg
 ---
 For my upcoming wedding in October I wanted to create a small favor that captured a bit of my personality. What I ended up coming up with is a little tag to put on your glass with your name on it so that you don't lose track of it. To make that more fun the tag itself is made from a 1mm FR4 PCB with the name then engraved on one side using a my desktop CNC mill ([I have this little guy from Amazon](https://www.amazon.com/gp/product/B07JZ7PHF2/ref=ppx_yo_dt_b_asin_title_o08_s00?ie=UTF8&psc=1)).
