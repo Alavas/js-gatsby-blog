@@ -16,7 +16,7 @@ const ContactPage = ({ data: { site } }) => {
 			</Helmet>
 			<div className="two-grids -contact">
 				<div>
-					<h1 className="post-title">Get in Touch</h1>
+					<h1 className="post-title">Contact Me!</h1>
 					<p>Let me help you with your next project.</p>
 					<ul
 						style={{ listStyle: 'none', padding: '10px' }}
@@ -42,7 +42,7 @@ const ContactPage = ({ data: { site } }) => {
 						</li>
 						<li>
 							<SocialIcon url="https://www.youtube.com/user/JSSavala" />{' '}
-							I've got a few random YouTube videos &#127871;
+							A few random YouTube videos &#127871;
 						</li>
 					</ul>
 				</div>
